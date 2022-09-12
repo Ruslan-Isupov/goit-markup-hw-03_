@@ -333,7 +333,7 @@ line-height: 1.71;
 .portfolio-filter {
     display: flex;
     justify-content: center;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 
  
 }
@@ -357,7 +357,9 @@ line-height: 1.71;
 .portfolio-box {
     padding: 20px 24px;
     
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
+    border-left:1px solid #ECECEC; ;
+    border-right:1px solid #ECECEC; ;
     
 }
 
